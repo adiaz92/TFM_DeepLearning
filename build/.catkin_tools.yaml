@@ -1,0 +1,6 @@
+devel_space: /home/shaenar/TFM_DeepLearning/devel
+install: false
+install_space: /home/shaenar/TFM_DeepLearning/install
+profile: default
+source_space: /home/shaenar/TFM_DeepLearning/src
+workspace: /home/shaenar/TFM_DeepLearning

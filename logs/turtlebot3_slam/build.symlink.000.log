@@ -1,0 +1,4 @@
+Symlinking /home/shaenar/TFM_DeepLearning/devel/share/turtlebot3_slam/cmake/turtlebot3_slamConfig.cmake
+Symlinking /home/shaenar/TFM_DeepLearning/devel/share/turtlebot3_slam/cmake/turtlebot3_slamConfig-version.cmake
+Symlinking /home/shaenar/TFM_DeepLearning/devel/lib/turtlebot3_slam/flat_world_imu_node
+Symlinking /home/shaenar/TFM_DeepLearning/devel/lib/pkgconfig/turtlebot3_slam.pc

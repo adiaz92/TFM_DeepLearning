@@ -1,0 +1,4 @@
+Symlinking /home/shaenar/TFM_DeepLearning/devel/share/turtlebot3_bringup/cmake/turtlebot3_bringupConfig.cmake
+Symlinking /home/shaenar/TFM_DeepLearning/devel/share/turtlebot3_bringup/cmake/turtlebot3_bringupConfig-version.cmake
+Symlinking /home/shaenar/TFM_DeepLearning/devel/lib/turtlebot3_bringup/turtlebot3_diagnostics
+Symlinking /home/shaenar/TFM_DeepLearning/devel/lib/pkgconfig/turtlebot3_bringup.pc

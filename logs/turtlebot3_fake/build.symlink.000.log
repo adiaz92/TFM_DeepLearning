@@ -1,0 +1,4 @@
+Symlinking /home/shaenar/TFM_DeepLearning/devel/share/turtlebot3_fake/cmake/turtlebot3_fakeConfig-version.cmake
+Symlinking /home/shaenar/TFM_DeepLearning/devel/share/turtlebot3_fake/cmake/turtlebot3_fakeConfig.cmake
+Symlinking /home/shaenar/TFM_DeepLearning/devel/lib/turtlebot3_fake/turtlebot3_fake_node
+Symlinking /home/shaenar/TFM_DeepLearning/devel/lib/pkgconfig/turtlebot3_fake.pc
